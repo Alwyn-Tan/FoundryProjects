@@ -1,0 +1,3 @@
+[submodule "foundry-fund-me"]
+	path = foundry-fund-me
+	url = https://github.com/Alwyn-Tan/foundry-fund-me.git
